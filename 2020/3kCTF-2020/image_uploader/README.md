@@ -130,3 +130,14 @@ $file = file('malware.phar');
 > The rest is left as an exercise for the readers. (Hint: decode `PD89YCRfR0VUWzBdYDs=`)
 
 
+## Remark
+
+![troIl.png](troIl.png)
+
+~~呢題咁易都搞咗我個半鐘真係失敗。~~
+
+![trolI.png](trolI.png)
+
+https://twitter.com/confus3r/status/1286850105513930752
+
+慘。早啲起身咪有 First Blood (好似係
